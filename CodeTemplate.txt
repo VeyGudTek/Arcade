@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//League of Legends
+//Tim Lin
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (minion is in kill thresh hold) {
+    attack the minion
 } else {
-    //Add event below
+    do nothing
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (enemy champion throws an ability) {
+    move sideways
 } else {
-    //Add event below
+    do nothing
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (health drops below 50%) {
+    consume a health potion
 } else {
-    //Add event below
+    do nothing
 }
 
 
